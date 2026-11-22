@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Golam Mawla Rome 👋
 
-<!--
-**MdGolamMawlaRome/MdGolamMawlaRome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HSC '28 Science student** based in **Sylhet, Bangladesh** who enjoys turning ideas into practical, lightweight software—from Android utilities and custom automation pipelines to C/C++ tools and interactive simulations.
 
-Here are some ideas to get you started:
+### 🛠️ What I Build & Explore
+* **Android & Mobile Tools:** Kotlin, Jetpack Compose, Room, and hybrid architectures—including *Study-Clock*, *Mini Games* (`.gameid` loader), *Smart Accessibility*, and release-focused utility apps.
+* **Systems, Desktop & Automation:** C/C++ utilities, CLI workflows, Termux & Python scripts, and GitHub Actions CI/CD builds tailored to run smoothly on low-overhead hardware.
+* **Creative & Scientific Tech:** Single-file HTML5 simulations and games, plus exploring local/offline tooling and practical problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech & Tools
+`Kotlin` · `Java` · `C` · `C++` · `TypeScript` · `Python` · `HTML5` · `GitHub Actions` · `Gradle` · `Termux` · `Linux` & `Windows`
+
+### 📌 Highlighted Repos
+* **Smart-Accessibility-Releases** — Public release builds and accessibility tooling.
+* **Whisper.cpp** — C++ exploration and experimentation.
+* **File-Share** & **Mini-Games-RELEASE** — Public project and release repositories.
+
+---
+
+*Always learning, refining, and building things that work reliably in the real world.*
